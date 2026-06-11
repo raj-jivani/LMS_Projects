@@ -1,1 +1,3 @@
 I am learning Exception Handleing.
+ Good morning
+ i used a+ mode in this file.
